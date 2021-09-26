@@ -12,7 +12,7 @@ div {
 }
 
 
-#reddiv {
+#red {
   border: 20px solid #f00; 
 display: inline-block;
 min-width: 20em; 
@@ -24,7 +24,7 @@ border-bottom-color: transparent;
 }
 
 
-#orangediv {
+#orange {
   border: 20px solid#ffa500; 
 display: inline-block;
 min-width: 20em; 
@@ -35,7 +35,7 @@ border-right-color: transparent;
 border-bottom-color: transparent; 
 }
 
-#yellowdiv {
+#yellow {
   border: 20px solid#ff0; 
 display: inline-block;
 min-width: 20em; 
@@ -46,7 +46,7 @@ border-right-color: transparent;
 border-bottom-color: transparent; 
 }
 
-#greendiv {
+#green {
   border: 20px solid#00bc3f; 
 display: inline-block;
 min-width: 20em; 
@@ -60,7 +60,7 @@ border-bottom-color: transparent;
 
 
 
-#bluediv {
+#blue {
   border: 20px solid#06f; 
 display: inline-block;
 min-width: 20em; 
@@ -73,7 +73,7 @@ border-bottom-color: transparent;
 
 
 
-#indigodiv {
+#indigo {
   border: 20px solid#8a2be2; 
 display: inline-block;
 min-width: 20em; 
@@ -86,7 +86,7 @@ border-bottom-color: transparent;
 
 
 
-#violetdiv {
+#violet {
   border: 20px solid#d300c9; 
 display: inline-block;
 min-width: 20em; 
